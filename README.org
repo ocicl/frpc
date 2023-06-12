@@ -1,0 +1,10 @@
+* frpc
+
+Common Lisp ONC-RPC implementation
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fjames86/frpc.git   |
+| commit  | d85875e  |
+| systems | frpc |
+|---------+-------------------------------------------|
+
